@@ -2,10 +2,6 @@
 
 Twitter clone built using React, Redux.
 
-Demo - [https://twitter-musk.vercel.app/#/](https://twitter-musk.vercel.app/#/)
-
-Backend Repository - [https://github.com/RisingGeek/twitter-clone-backend](https://github.com/RisingGeek/twitter-clone-backend)
-
 ## Features
 
 1. Signup/Login
